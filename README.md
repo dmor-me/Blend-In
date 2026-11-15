@@ -8,6 +8,8 @@ Blend In is a browser party game for **3–20 players**. Everyone knows the secr
 
 **[Play Blend In →](https://blendin.party/)**
 
+[📣 Latest updates](./UPDATES.md)
+
 ## How to play
 
 1. Create a lobby and share the invite link or room code with your friends.
